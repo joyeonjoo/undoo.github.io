@@ -1,2 +1,2 @@
-# undoo.github.io
+# joyeonjoo.github.io
 Web Publisher Portfolio
